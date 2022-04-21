@@ -1,0 +1,7 @@
+path: wordpress
+#@prod:
+#   ssh: >
+#     host:/path/
+#@staging:
+#   ssh: >
+#     host:/path/

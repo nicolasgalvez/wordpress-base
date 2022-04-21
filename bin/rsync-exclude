@@ -1,0 +1,17 @@
+*.zip
+*.sql
+*.tar*
+*.log
+cache
+wpo-cache
+php_errorlog
+ai1wm-backups
+upgrade
+pb_backupbuddy
+siteground-optimizer-assets
+backupbuddy*
+wc-logs
+sucuri
+wp-config.php
+.htaccess
+error_log

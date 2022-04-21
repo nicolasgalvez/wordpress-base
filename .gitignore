@@ -1,0 +1,14 @@
+.idea
+.DS_store
+*.sql
+.env
+/wordpress/wp-content/uploads
+/wordpress/wp-config.php
+*.log
+logs
+cache
+*cache
+*.zip
+error_log
+php_errorlog
+.htaccess
